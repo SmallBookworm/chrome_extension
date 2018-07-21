@@ -1,0 +1,2 @@
+
+规定所有传送的信息和响应信息message(Object):id指来源组件名，text传递的消息，error响应失败报错
